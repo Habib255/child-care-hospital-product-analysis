@@ -10,26 +10,26 @@ const Charts = () => {
             ratings: 4.5
         },
         {
-            month: 'mar',
+            month: 'apr',
             services: 15640,
             satisfaction: 9959,
             ratings: 4.5
         },
         {
-            month: 'mar',
+            month: 'may',
             services: 13330,
             satisfaction: 9959,
             ratings: 4.5
         },
         {
-            month: 'mar',
+            month: 'jun',
             services: 16557,
             satisfaction: 9959,
             ratings: 4.5
 
         },
         {
-            month: 'mar',
+            month: 'jul',
             services: 10000,
             satisfaction: 9959,
             ratings: 4.5
