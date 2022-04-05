@@ -2,6 +2,8 @@
     display: flex;
     justify-content: center;
     padding: 15px;
+    position: relative;
+
 
 
 }
@@ -9,10 +11,4 @@
 .navbar li {
     list-style: none;
     padding-left: 50px;
-    position: sticky;
-
-}
-
-.nav {
-    position: relative;
 }
